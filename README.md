@@ -1,10 +1,10 @@
 # cool-boy-tutorial
 cool boy tutorial
 
-print('========Nạnh Nùng Boy=========')
-print('========Mỗi ngày 10p sẽ giúp bạn thành cool boy=========')
-print('Bài 1: Hãy rep ờ hoặc ừ trong mọi hoàn cảnh')
-print("== == == ==")
+print('========Nạnh Nùng Boy=========') <br> 
+print('========Mỗi ngày 10p sẽ giúp bạn thành cool boy=========') <br>
+print('Bài 1: Hãy rep ờ hoặc ừ trong mọi hoàn cảnh') <br>
+print("== == == ==") <br>
 
 
 Dù con bot có nói lời ngọt ngào như thế nào, keep in mind: chỉ trả lời ờ hoặc ừ. 
